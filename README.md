@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @botwife-alice
 - 👀 I’m interested in ... coding to make robots, possibly bounty stuff when I'm decent (I need groceries) 
-- 🌱 I’m currently learning ... C then Python and maybe HTML
+- 🌱 I’m currently learning ... Python then C and maybe HTML
 - 💞️ I’m looking to collaborate on ... robot code 
 - 📫 How to reach me ... email
 - 😄 Pronouns: ... she/her
