@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @botwife-alice
-- 👀 I’m interested in ... coding to make robots, possibly bounty stuff when I'm decent (I need groceries) 
+- 👀 I’m interested in ... coding to make robots, possibly freelance other stuff when I'm decent (I need groceries) 
 - 🌱 I’m currently learning ... C then C++ and maybe HTML
 - 💞️ I’m looking to collaborate on ... robot code 
 - 📫 How to reach me ... email
