@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alicebot
+- 👋 Hi, I’m @alicebotwife
 - 👀 I’m interested in ... coding to make robots, possibly freelance other stuff when I'm decent
 - 🌱 I’m currently learning ... C then C++ and maybe HTML
 - 💞️ I’m looking to collaborate on ... robot code 
